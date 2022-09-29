@@ -1,0 +1,15 @@
+C:\Users\n0xzx3\source\repos\papirgyujtes\bin\Debug\net6.0\papirgyujtes.exe
+C:\Users\n0xzx3\source\repos\papirgyujtes\bin\Debug\net6.0\papirgyujtes.deps.json
+C:\Users\n0xzx3\source\repos\papirgyujtes\bin\Debug\net6.0\papirgyujtes.runtimeconfig.json
+C:\Users\n0xzx3\source\repos\papirgyujtes\bin\Debug\net6.0\papirgyujtes.dll
+C:\Users\n0xzx3\source\repos\papirgyujtes\bin\Debug\net6.0\papirgyujtes.pdb
+C:\Users\n0xzx3\source\repos\papirgyujtes\obj\Debug\net6.0\papirgyujtes.csproj.AssemblyReference.cache
+C:\Users\n0xzx3\source\repos\papirgyujtes\obj\Debug\net6.0\papirgyujtes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0xzx3\source\repos\papirgyujtes\obj\Debug\net6.0\papirgyujtes.AssemblyInfoInputs.cache
+C:\Users\n0xzx3\source\repos\papirgyujtes\obj\Debug\net6.0\papirgyujtes.AssemblyInfo.cs
+C:\Users\n0xzx3\source\repos\papirgyujtes\obj\Debug\net6.0\papirgyujtes.csproj.CoreCompileInputs.cache
+C:\Users\n0xzx3\source\repos\papirgyujtes\obj\Debug\net6.0\papirgyujtes.dll
+C:\Users\n0xzx3\source\repos\papirgyujtes\obj\Debug\net6.0\refint\papirgyujtes.dll
+C:\Users\n0xzx3\source\repos\papirgyujtes\obj\Debug\net6.0\papirgyujtes.pdb
+C:\Users\n0xzx3\source\repos\papirgyujtes\obj\Debug\net6.0\papirgyujtes.genruntimeconfig.cache
+C:\Users\n0xzx3\source\repos\papirgyujtes\obj\Debug\net6.0\ref\papirgyujtes.dll

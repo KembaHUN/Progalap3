@@ -1,0 +1,15 @@
+C:\Users\n0xzx3\source\repos\tabor\bin\Debug\net6.0\tabor.exe
+C:\Users\n0xzx3\source\repos\tabor\bin\Debug\net6.0\tabor.deps.json
+C:\Users\n0xzx3\source\repos\tabor\bin\Debug\net6.0\tabor.runtimeconfig.json
+C:\Users\n0xzx3\source\repos\tabor\bin\Debug\net6.0\tabor.dll
+C:\Users\n0xzx3\source\repos\tabor\bin\Debug\net6.0\tabor.pdb
+C:\Users\n0xzx3\source\repos\tabor\obj\Debug\net6.0\tabor.csproj.AssemblyReference.cache
+C:\Users\n0xzx3\source\repos\tabor\obj\Debug\net6.0\tabor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0xzx3\source\repos\tabor\obj\Debug\net6.0\tabor.AssemblyInfoInputs.cache
+C:\Users\n0xzx3\source\repos\tabor\obj\Debug\net6.0\tabor.AssemblyInfo.cs
+C:\Users\n0xzx3\source\repos\tabor\obj\Debug\net6.0\tabor.csproj.CoreCompileInputs.cache
+C:\Users\n0xzx3\source\repos\tabor\obj\Debug\net6.0\tabor.dll
+C:\Users\n0xzx3\source\repos\tabor\obj\Debug\net6.0\refint\tabor.dll
+C:\Users\n0xzx3\source\repos\tabor\obj\Debug\net6.0\tabor.pdb
+C:\Users\n0xzx3\source\repos\tabor\obj\Debug\net6.0\tabor.genruntimeconfig.cache
+C:\Users\n0xzx3\source\repos\tabor\obj\Debug\net6.0\ref\tabor.dll

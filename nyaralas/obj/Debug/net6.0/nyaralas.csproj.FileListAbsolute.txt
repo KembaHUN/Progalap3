@@ -1,0 +1,15 @@
+C:\Users\n0xzx3\source\repos\nyaralas\bin\Debug\net6.0\nyaralas.exe
+C:\Users\n0xzx3\source\repos\nyaralas\bin\Debug\net6.0\nyaralas.deps.json
+C:\Users\n0xzx3\source\repos\nyaralas\bin\Debug\net6.0\nyaralas.runtimeconfig.json
+C:\Users\n0xzx3\source\repos\nyaralas\bin\Debug\net6.0\nyaralas.dll
+C:\Users\n0xzx3\source\repos\nyaralas\bin\Debug\net6.0\nyaralas.pdb
+C:\Users\n0xzx3\source\repos\nyaralas\obj\Debug\net6.0\nyaralas.csproj.AssemblyReference.cache
+C:\Users\n0xzx3\source\repos\nyaralas\obj\Debug\net6.0\nyaralas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0xzx3\source\repos\nyaralas\obj\Debug\net6.0\nyaralas.AssemblyInfoInputs.cache
+C:\Users\n0xzx3\source\repos\nyaralas\obj\Debug\net6.0\nyaralas.AssemblyInfo.cs
+C:\Users\n0xzx3\source\repos\nyaralas\obj\Debug\net6.0\nyaralas.csproj.CoreCompileInputs.cache
+C:\Users\n0xzx3\source\repos\nyaralas\obj\Debug\net6.0\nyaralas.dll
+C:\Users\n0xzx3\source\repos\nyaralas\obj\Debug\net6.0\refint\nyaralas.dll
+C:\Users\n0xzx3\source\repos\nyaralas\obj\Debug\net6.0\nyaralas.pdb
+C:\Users\n0xzx3\source\repos\nyaralas\obj\Debug\net6.0\nyaralas.genruntimeconfig.cache
+C:\Users\n0xzx3\source\repos\nyaralas\obj\Debug\net6.0\ref\nyaralas.dll
